@@ -1,0 +1,17 @@
+lora_params:
+  lora_r: 8
+  lora_alpha: 32
+  bias: 'none'
+  lora_dropout: 0.0
+
+diffuser_model_params:
+  name: 'sd-legacy/stable-diffusion-v1-5'
+
+train_params:
+  lr: 0.00001
+  batch_size: 2
+  epochs: 3
+  lora_ckpt_name: 'lora_ckpt_title_lr_g.pth' 
+  mixed_precision: 'fp16'
+  gradient_accumulation_steps: 1
+  seed: 22
