@@ -1,20 +1,10 @@
 # Raphael Sanzio Style Transfer with StyleID and LoRA
 
-<div style="display:flex; gap: 10px;">
-<img src="assets/man.png" alt="man" width="300"/>
-<img src="assets/man_styled.png" alt="man styled" width="300"/>
-</div>
-
-<div style="display:flex; gap: 10px;">
-<img src="assets/pray.png" alt="pray" width="300"/>
-<img src="assets/pray_styled.png" alt="pray styled" width="300"/>
-</div>
-
-<div style="display:flex; gap: 10px;">
-<img src="assets/forest.png" alt="forest" width="300"/>
-<img src="assets/forest_styled.png" alt="forest styled" width="300"/>
-</div>
-<br>
+| Content / Style | Raphael Sanzio <br> <img src="assets/transfiguration.png" width="300" height="300"> |
+|:---:|:---:|
+| <img src="assets/man.png" width="300" height="300"> | <img src="assets/man_styled.png" width="300" height="300"> |
+| <img src="assets/pray.png" width="300" height="300"> | <img src="assets/pray_styled.png" width="300" height="300"> |
+| <img src="assets/forest.png" width="300" height="300"> | <img src="assets/forest_styled.png" width="300" height="300"> |
 
 # Reference
 
